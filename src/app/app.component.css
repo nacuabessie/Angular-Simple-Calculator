@@ -1,0 +1,56 @@
+
+.wrapper h1{
+   background-color: black;
+   color: white;
+   border-radius: 40px;
+   padding: 3%;
+}
+.wrapper{
+    width: 500px;
+    position: absolute;
+    top:10%;
+    left:30%;
+    background-image: linear-gradient(to bottom right,red,yellow);
+    padding: 40px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+input[type="text"]{
+    height: 40px;
+    width: 60%;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: #f9c74f;
+}
+
+label.f{
+    font-size: 19px;
+    position: absolute;
+    left:25%;
+    font-weight: bold;
+    padding: 0%;
+    
+}
+
+label.s{
+    font-size: 19px;
+    position: absolute;
+    left:25%;
+    font-weight: bold;
+}
+
+button{
+    background:#43aa8b;
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.wrapper h3{
+    background-image: linear-gradient(to bottom right,#6d597a,#b56576);
+    padding: 3%;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
